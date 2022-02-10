@@ -1,6 +1,6 @@
 # Baekjoon
-<a href='https://www.acmicpc.net/step'>Baekjoon</a>
-<a href='https://solved.ac/profile/yeanvely'>Baekjoon Level ::smile::</a>
+<a href='https://www.acmicpc.net/step'>Baekjoon</a><br>
+<a href='https://solved.ac/profile/yeanvely'>Baekjoon Level :smile:</a>
 
 ## Steps
 1. 입출력과 사칙연산

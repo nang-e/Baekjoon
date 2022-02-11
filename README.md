@@ -3,7 +3,7 @@
 <a href='https://solved.ac/profile/yeanvely'>Baekjoon Level :smile:</a>
 
 ## Steps
-1. 입출력과 사칙연산
+1. 입출력과 사칙연산 ✅
 2. if문
 3. for문
 4. while문

@@ -3,7 +3,7 @@
 <a target='_blank' href='https://solved.ac/profile/yeanvely'>Baekjoon Level :smile:</a>
 
 ## Steps
-1. 입출력과 사칙연산 2022.0210✔️
+1. 입출력과 사칙연산 2022.0209✔️
 2. if문 2022.02.10✔️
 3. for문 2022.02.11✔️
 4. while문 2022.02.11✔️

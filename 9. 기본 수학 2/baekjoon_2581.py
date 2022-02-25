@@ -6,8 +6,9 @@ def prime(n):
                 seive[j]=False
     return [i for i in range(2,n) if seive[i]]
 
-M,N=map(int,input().split())
-prime_lst=list(set(prime(N+1))-set(prime(M)))
-prime_lst.sort()
-for i in prime_lst:
-    print(i)
+M,N=int(input()),int(input())
+prime_set=set(prime(N+1))-set(prime(M))
+if sum(prime_set):
+    print(sum(prime_set),min(prime_set),end='\n')
+else:
+    print(-1)
